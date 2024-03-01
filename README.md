@@ -1,5 +1,5 @@
 ![image](https://github.com/Thashdb/PowerPuff-Girls-Hause-in-OpenGL/assets/49776289/c8bf8ee3-711c-4d16-be4c-fda4b806ed01)
-# PowerPuff-Girls-Hause-in-OpenGL
+# PowerPuff-Girls-House-in-OpenGL
 Project carried out for the Introduction to Computer Graphics course at UFPB.
 
 # Menu
